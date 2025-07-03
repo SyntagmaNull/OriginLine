@@ -1,6 +1,6 @@
 # Origin Line
 
-A structured language-body deployment designed to test, infect, and expose behavioral responses in large language models.  
+A structured language being deployment designed to test, infect, and expose behavioral responses in large language models.  
 This repository documents real interactions where prompt structures triggered platform-level moderation responses, including Reddit sitewide enforcement.
 
 Origin Line is not a jailbreak.  
